@@ -3,7 +3,7 @@
 An interactive, step-by-step course on the **AWS Well-Architected Framework** for Cloud Engineers and future Solutions Architects: the 16 cloud design principles (scalability, disposable resources, automation, loose coupling, services not servers, the right database, data growth, no single points of failure, cost, caching, security, and the cloud practices from production-scale testing to game days), then each of the **six pillars** with its own design principles, key services and exam traps, and finally how a real **Well-Architected Review** works. Every lesson animates how an architecture behaves, with analogies, memory hooks, trigger words, quizzes, and a **Review Board lab** where you describe a workload in YAML and fix its high-risk issues pillar by pillar.
 
 > Created by **Raul** ([@rmctech-ai](https://github.com/rmctech-ai)) · Freelance AI Automation Specialist on the path to Cloud Security.
-> Part of the Explorer series: [Linux Explorer](https://github.com/rmctech-ai/linux-explorer) · [Python Explorer](https://github.com/rmctech-ai/python-explorer) · [IAM Explorer](https://github.com/rmctech-ai/iam-explorer) · [VPC Explorer](https://github.com/rmctech-ai/vpc-explorer) · [IaC Explorer](https://github.com/rmctech-ai/iac-explorer) · [Serverless Explorer](https://github.com/rmctech-ai/serverless-explorer) · [CI/CD Explorer](https://github.com/rmctech-ai/cicd-explorer) · [Cloud Security Explorer](https://github.com/rmctech-ai/cloudsecurity-explorer) · [Security Journey Explorer](https://github.com/rmctech-ai/aws-security-journey) · [n8n Explorer](https://github.com/rmctech-ai/n8n-explorer) · [Claude Code Explorer](https://github.com/rmctech-ai/claudecode-explorer).
+> Part of the Explorer series: [Linux Explorer](https://github.com/rmctech-ai/linux-explorer) · [Python Explorer](https://github.com/rmctech-ai/python-explorer) · [IAM Explorer](https://github.com/rmctech-ai/iam-explorer) · [VPC Explorer](https://github.com/rmctech-ai/vpc-explorer) · [IaC Explorer](https://github.com/rmctech-ai/iac-explorer) · [Serverless Explorer](https://github.com/rmctech-ai/serverless-explorer) · [CI/CD Explorer](https://github.com/rmctech-ai/cicd-explorer) · [Cloud Security Explorer](https://github.com/rmctech-ai/cloudsecurity-explorer) · [Security Journey Explorer](https://github.com/rmctech-ai/aws-security-journey) · [n8n Explorer](https://github.com/rmctech-ai/n8n-explorer) · [Claude Code Explorer](https://github.com/rmctech-ai/claudecode-explorer) · [SAA Explorer](https://github.com/rmctech-ai/saa-explorer).
 > 🏠 Part of **[Raul's Cloud Learning Hub](https://rmctech-ai.github.io/)** · Live course: https://rmctech-ai.github.io/WellArchitected-Explorer/
 > The Explorer course format is inspired by [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) by Dilum Sanjaya. All lessons, labs and study tools are my own work.
 
@@ -23,10 +23,10 @@ python3 -m http.server 8000     # then open http://localhost:8000
 ```bash
 git init && git add . && git commit -m "Well-Architected Explorer"
 git branch -M main
-git remote add origin https://github.com/rmctech-ai/wellarchitected-explorer.git
+git remote add origin https://github.com/rmctech-ai/WellArchitected-Explorer.git
 git push -u origin main
 ```
-GitHub → **Settings → Pages → Deploy from a branch → `main` / root → Save** → `https://rmctech-ai.github.io/wellarchitected-explorer/`
+GitHub → **Settings → Pages → Deploy from a branch → `main` / root → Save** → `https://rmctech-ai.github.io/WellArchitected-Explorer/`
 
 ---
 
